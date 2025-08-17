@@ -1,0 +1,977 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "selectors": [
+      "#andhrapradesh",
+      "#AP",
+      "#IN-AP",
+      "[data-name='Andhra Pradesh']",
+      "[title='Andhra Pradesh']"
+    ],
+    "title": "Kalamkari",
+    "img": "images/andhrapradesh.jpg",
+    "description": "Hand-painted or block-printed cotton textiles featuring mythological themes and intricate patterns. Kalamkari is known for its detailed narratives and natural dyes.",
+    "period": "13th Century onwards",
+    "characteristics": "Natural dyes, intricate patterns, narrative art",
+    "themes": "Hindu mythology, epics, nature",
+    "additionalInfo": {
+      "majorCenters": [
+        "Srikalahasti",
+        "Machilipatnam"
+      ],
+      "famousArtists": [
+        "Traditional artisans",
+        "G. Gurunathan"
+      ],
+      "techniques": [
+        "Hand-painting",
+        "Block printing",
+        "Natural dyes"
+      ],
+      "influence": "Temple art and textile traditions",
+      "modernRelevance": "GI-tagged, popular in fashion and home decor"
+    }
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "selectors": [
+      "#arunachalpradesh",
+      "#AR",
+      "#IN-AR",
+      "[data-name='Arunachal Pradesh']",
+      "[title='Arunachal Pradesh']"
+    ],
+    "title": "Thangka Painting",
+    "img": "images/arunachalpradesh.jpg",
+    "description": "Sacred Buddhist paintings on cotton or silk, depicting deities and mandalas. Practiced by the Monpa community, these artworks are used for meditation and rituals.",
+    "period": "15th Century onwards",
+    "characteristics": "Vibrant colors, spiritual symbolism, detailed iconography",
+    "themes": "Buddhist deities, mandalas, spiritual narratives",
+    "additionalInfo": {
+      "majorCenters": [
+        "Tawang",
+        "Dirang"
+      ],
+      "famousArtists": [
+        "Traditional Monpa artisans"
+      ],
+      "techniques": [
+        "Natural pigments",
+        "Cotton or silk canvas",
+        "Gold detailing"
+      ],
+      "influence": "Tibetan Buddhist art",
+      "modernRelevance": "Preserved in monasteries, gaining global interest"
+    }
+  },
+  {
+    "name": "Assam",
+    "selectors": [
+      "#assam",
+      "#AS",
+      "#IN-AS",
+      "[data-name='Assam']",
+      "[title='Assam']"
+    ],
+    "title": "Sattriya Art",
+    "img": "images/assam.jpg",
+    "description": "Traditional paintings and illustrations linked to the Sattriya dance form, often found in manuscripts and monastic art. These works depict Vaishnavite themes and stories.",
+    "period": "16th Century onwards",
+    "characteristics": "Soft colors, narrative style, religious motifs",
+    "themes": "Vaishnavism, Krishna stories, monastic life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Majuli",
+        "Guwahati"
+      ],
+      "famousArtists": [
+        "Traditional sattra artisans"
+      ],
+      "techniques": [
+        "Natural dyes",
+        "Handmade paper",
+        "Ink drawing"
+      ],
+      "influence": "Bhakti movement and Vaishnavite monasteries",
+      "modernRelevance": "Preserved in Assam’s sattras, promoted through cultural festivals"
+    }
+  },
+  {
+    "name": "Bihar",
+    "selectors": [
+      "#bihar",
+      "#BR",
+      "#IN-BR",
+      "[data-name='Bihar']",
+      "[title='Bihar']"
+    ],
+    "title": "Madhubani Painting",
+    "img": "images/bihar.jpg",
+    "description": "Vibrant folk art from the Mithila region, known for its intricate patterns and depiction of mythological and natural themes, traditionally painted by women.",
+    "period": "Ancient origins, formalized 20th Century",
+    "characteristics": "Geometric patterns, bold colors, natural dyes",
+    "themes": "Mythology, nature, social events",
+    "additionalInfo": {
+      "majorCenters": [
+        "Madhubani",
+        "Darbhanga"
+      ],
+      "famousArtists": [
+        "Sita Devi",
+        "Baua Devi"
+      ],
+      "techniques": [
+        "Natural dyes",
+        "Fingers, twigs, or brushes",
+        "Line work"
+      ],
+      "influence": "Mithila cultural traditions",
+      "modernRelevance": "GI-tagged, globally recognized folk art"
+    }
+  },
+  {
+    "name": "Chhattisgarh",
+    "selectors": [
+      "#chhattisgarh",
+      "#CG",
+      "#IN-CG",
+      "[data-name='Chhattisgarh']",
+      "[title='Chhattisgarh']"
+    ],
+    "title": "Bastar Art",
+    "img": "images/chhattisgarh.jpg",
+    "description": "Tribal art form featuring intricate wood carvings, bell metal sculptures, and terracotta works by the Bastar tribes, reflecting their connection to nature and rituals.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Rustic designs, natural materials, tribal motifs",
+    "themes": "Nature, tribal deities, daily life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Bastar",
+        "Kondagaon"
+      ],
+      "famousArtists": [
+        "Traditional tribal artisans"
+      ],
+      "techniques": [
+        "Wood carving",
+        "Dhokra casting",
+        "Terracotta molding"
+      ],
+      "influence": "Tribal culture and animistic beliefs",
+      "modernRelevance": "Popular in handicraft markets, promoted for tourism"
+    }
+  },
+  {
+    "name": "Goa",
+    "selectors": [
+      "#goa",
+      "#GA",
+      "#IN-GA",
+      "[data-name='Goa']",
+      "[title='Goa']"
+    ],
+    "title": "Goan Christian Art",
+    "img": "images/goa.jpg",
+    "description": "Religious art influenced by Portuguese colonialism, seen in church frescoes, altarpieces, and iconography depicting Christian themes with Indian aesthetics.",
+    "period": "16th Century onwards",
+    "characteristics": "Vibrant colors, religious iconography, Indo-Portuguese style",
+    "themes": "Christianity, saints, biblical scenes",
+    "additionalInfo": {
+      "majorCenters": [
+        "Old Goa",
+        "Panaji"
+      ],
+      "famousArtists": [
+        "Traditional church artisans"
+      ],
+      "techniques": [
+        "Fresco painting",
+        "Wood carving",
+        "Gold leaf work"
+      ],
+      "influence": "Portuguese colonial art and Indian traditions",
+      "modernRelevance": "Preserved in Goan churches, inspires modern artists"
+    }
+  },
+  {
+    "name": "Gujarat",
+    "selectors": [
+      "#gujarat",
+      "#GJ",
+      "#IN-GJ",
+      "[data-name='Gujarat']",
+      "[title='Gujarat']"
+    ],
+    "title": "Pithora Painting",
+    "img": "images/gujarat.jpg",
+    "description": "Ritualistic tribal paintings by the Rathwa and Bhil tribes, created to invoke blessings. These vibrant wall paintings depict mythological and daily life scenes.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Bold colors, symbolic motifs, large-scale murals",
+    "themes": "Tribal mythology, nature, rituals",
+    "additionalInfo": {
+      "majorCenters": [
+        "Chhota Udaipur",
+        "Panchmahal"
+      ],
+      "famousArtists": [
+        "Traditional Rathwa artists"
+      ],
+      "techniques": [
+        "Natural pigments",
+        "Wall painting",
+        "Symbolic patterns"
+      ],
+      "influence": "Tribal spiritual beliefs",
+      "modernRelevance": "Preserved as cultural heritage, promoted in art festivals"
+    }
+  },
+  {
+    "name": "Haryana",
+    "selectors": [
+      "#haryana",
+      "#HR",
+      "#IN-HR",
+      "[data-name='Haryana']",
+      "[title='Haryana']"
+    ],
+    "title": "Sanji Wall Art",
+    "img": "images/haryana.jpg",
+    "description": "Traditional folk murals painted on village homes, depicting rural life, festivals, and mythological stories with vibrant colors and simple forms.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Bright colors, simple forms, rural motifs",
+    "themes": "Rural life, festivals, mythology",
+    "additionalInfo": {
+      "majorCenters": [
+        "Rohtak",
+        "Hisar"
+      ],
+      "famousArtists": [
+        "Traditional village artisans"
+      ],
+      "techniques": [
+        "Natural dyes",
+        "Wall painting",
+        "Clay relief work"
+      ],
+      "influence": "Haryanvi folk traditions",
+      "modernRelevance": "Revived through rural art initiatives"
+    }
+  },
+  {
+    "name": "Himachal Pradesh",
+    "selectors": [
+      "#himachalpradesh",
+      "#HP",
+      "#IN-HP",
+      "[data-name='Himachal Pradesh']",
+      "[title='Himachal Pradesh']"
+    ],
+    "title": "Pahari Painting",
+    "img": "images/himachalpradesh.jpg",
+    "description": "Miniature paintings from the Himalayan foothills, known for their delicate brushwork and depictions of Krishna legends, nature, and royal life.",
+    "period": "17th-19th Century",
+    "characteristics": "Delicate lines, soft colors, romantic themes",
+    "themes": "Hindu mythology, nature, royal life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Kangra",
+        "Chamba",
+        "Basohli"
+      ],
+      "famousArtists": [
+        "Nainsukh",
+        "Manaku"
+      ],
+      "techniques": [
+        "Natural pigments",
+        "Fine brushwork",
+        "Gold detailing"
+      ],
+      "influence": "Mughal and Rajput miniature traditions",
+      "modernRelevance": "Preserved in museums, inspires contemporary artists"
+    }
+  },
+  {
+    "name": "Jharkhand",
+    "selectors": [
+      "#jharkhand",
+      "#JH",
+      "#IN-JH",
+      "[data-name='Jharkhand']",
+      "[title='Jharkhand']"
+    ],
+    "title": "Sohrai Art",
+    "img": "images/jharkhand.jpg",
+    "description": "Traditional mural art by tribal women, painted on mud walls during festivals, depicting nature, animals, and harvest rituals with earthy tones.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Earthy tones, tribal motifs, natural forms",
+    "themes": "Nature, harvest, tribal life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Hazaribagh",
+        "Ranchi"
+      ],
+      "famousArtists": [
+        "Traditional tribal women artists"
+      ],
+      "techniques": [
+        "Natural pigments",
+        "Mud wall painting",
+        "Finger painting"
+      ],
+      "influence": "Tribal harvest rituals",
+      "modernRelevance": "GI-tagged, promoted globally"
+    }
+  },
+  {
+    "name": "Karnataka",
+    "selectors": [
+      "#karnataka",
+      "#KA",
+      "#IN-KA",
+      "[data-name='Karnataka']",
+      "[title='Karnataka']"
+    ],
+    "title": "Mysore Painting",
+    "img": "images/karnataka.jpg",
+    "description": "Classical South Indian paintings from Mysore, known for their elegance, detailed figures, and use of gold leaf, often depicting Hindu deities.",
+    "period": "17th Century onwards",
+    "characteristics": "Gold leaf, vibrant colors, detailed figures",
+    "themes": "Hindu mythology, royal portraits",
+    "additionalInfo": {
+      "majorCenters": [
+        "Mysore",
+        "Bengaluru"
+      ],
+      "famousArtists": [
+        "Traditional Mysore artisans"
+      ],
+      "techniques": [
+        "Gold leaf application",
+        "Natural pigments",
+        "Gesso work"
+      ],
+      "influence": "Vijayanagara art traditions",
+      "modernRelevance": "GI-tagged, popular in religious art"
+    }
+  },
+  {
+    "name": "Kerala",
+    "selectors": [
+      "#kerala",
+      "#KL",
+      "#IN-KL",
+      "[data-name='Kerala']",
+      "[title='Kerala']"
+    ],
+    "title": "Kerala Mural Painting",
+    "img": "images/kerala.jpg",
+    "description": "Vibrant wall paintings found in temples and palaces, depicting mythological stories with a distinct palette of five natural colors. These murals are known for their expressive figures and narrative depth.",
+    "period": "9th Century onwards",
+    "characteristics": "Natural colors, expressive figures, narrative focus",
+    "themes": "Hindu mythology, temple rituals",
+    "additionalInfo": {
+      "majorCenters": [
+        "Guruvayur",
+        "Thrissur",
+        "Padmanabhapuram"
+      ],
+      "famousArtists": [
+        "Traditional temple artists",
+        "Mammiyur Krishnan"
+      ],
+      "techniques": [
+        "Natural pigments (ochre, green, red, white, black)",
+        "Fresco-secco",
+        "Line drawing"
+      ],
+      "influence": "Dravidian temple architecture",
+      "modernRelevance": "Revived through training programs and tourism"
+    }
+  },
+  {
+    "name": "Madhya Pradesh",
+    "selectors": [
+      "#madhyapradesh",
+      "#MP",
+      "#IN-MP",
+      "[data-name='Madhya Pradesh']",
+      "[title='Madhya Pradesh']"
+    ],
+    "title": "Gond Art",
+    "img": "images/madhyapradesh.jpg",
+    "description": "Tribal art form of the Gond people, characterized by vibrant colors and intricate patterns inspired by nature and folklore. It reflects the community’s deep connection with the environment.",
+    "period": "20th Century onwards",
+    "characteristics": "Dots, lines, vibrant colors",
+    "themes": "Nature, folklore, tribal life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Bhopal",
+        "Patangarh"
+      ],
+      "famousArtists": [
+        "Jangarh Singh Shyam",
+        "Venkat Raman Singh Shyam"
+      ],
+      "techniques": [
+        "Acrylic paints",
+        "Natural pigments",
+        "Dot and line patterns"
+      ],
+      "influence": "Tribal storytelling traditions",
+      "modernRelevance": "Popular in contemporary Indian art markets"
+    }
+  },
+  {
+    "name": "Maharashtra",
+    "selectors": [
+      "#maharashtra",
+      "#MH",
+      "#IN-MH",
+      "[data-name='Maharashtra']",
+      "[title='Maharashtra']"
+    ],
+    "title": "Warli Painting",
+    "img": "images/maharashtra.jpg",
+    "description": "Tribal art form by the Warli tribe, characterized by simple geometric shapes and monochromatic designs depicting daily life, rituals, and nature.",
+    "period": "Ancient origins, formalized 20th Century",
+    "characteristics": "Monochromatic, geometric shapes, stick figures",
+    "themes": "Tribal life, nature, rituals",
+    "additionalInfo": {
+      "majorCenters": [
+        "Palghar",
+        "Dahanu"
+      ],
+      "famousArtists": [
+        "Jivya Soma Mashe"
+      ],
+      "techniques": [
+        "White pigment on mud walls",
+        "Rice paste",
+        "Bamboo stick brushes"
+      ],
+      "influence": "Warli tribal culture",
+      "modernRelevance": "GI-tagged, popular in global art markets"
+    }
+  },
+  {
+    "name": "Manipur",
+    "selectors": [
+      "#manipur",
+      "#MN",
+      "#IN-MN",
+      "[data-name='Manipur']",
+      "[title='Manipur']"
+    ],
+    "title": "Manipuri Manuscript Art",
+    "img": "images/manipur.jpg",
+    "description": "Illustrated manuscripts depicting Vaishnavite stories, historical events, and local folklore, often created on handmade paper with vibrant colors.",
+    "period": "18th Century onwards",
+    "characteristics": "Vivid colors, narrative style, religious motifs",
+    "themes": "Vaishnavism, local folklore, history",
+    "additionalInfo": {
+      "majorCenters": [
+        "Imphal"
+      ],
+      "famousArtists": [
+        "Traditional manuscript artisans"
+      ],
+      "techniques": [
+        "Natural dyes",
+        "Handmade paper",
+        "Ink drawing"
+      ],
+      "influence": "Vaishnavite traditions and Meitei culture",
+      "modernRelevance": "Preserved in museums, revived through cultural initiatives"
+    }
+  },
+  {
+    "name": "Meghalaya",
+    "selectors": [
+      "#meghalaya",
+      "#ML",
+      "#IN-ML",
+      "[data-name='Meghalaya']",
+      "[title='Meghalaya']"
+    ],
+    "title": "Khasi Bamboo Art",
+    "img": "images/meghalaya.jpg",
+    "description": "Intricate bamboo carvings and woven artworks by the Khasi tribe, used for utilitarian and decorative purposes, reflecting tribal aesthetics.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Natural materials, intricate patterns, functional art",
+    "themes": "Nature, tribal life, utility",
+    "additionalInfo": {
+      "majorCenters": [
+        "Shillong",
+        "Cherrapunji"
+      ],
+      "famousArtists": [
+        "Traditional Khasi artisans"
+      ],
+      "techniques": [
+        "Bamboo carving",
+        "Weaving",
+        "Natural dyes"
+      ],
+      "influence": "Khasi tribal traditions",
+      "modernRelevance": "Promoted in handicraft markets"
+    }
+  },
+  {
+    "name": "Mizoram",
+    "selectors": [
+      "#mizoram",
+      "#MZ",
+      "#IN-MZ",
+      "[data-name='Mizoram']",
+      "[title='Mizoram']"
+    ],
+    "title": "Mizo Textile Art",
+    "img": "images/mizoram.jpg",
+    "description": "Traditional handwoven textiles with intricate geometric patterns, used for clothing and ceremonial purposes, reflecting Mizo cultural identity.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Geometric patterns, vibrant colors, woven designs",
+    "themes": "Tribal identity, ceremonies, daily life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Aizawl",
+        "Lunglei"
+      ],
+      "famousArtists": [
+        "Traditional Mizo weavers"
+      ],
+      "techniques": [
+        "Handweaving",
+        "Natural dyes",
+        "Loom work"
+      ],
+      "influence": "Mizo tribal culture",
+      "modernRelevance": "Promoted through handicraft fairs"
+    }
+  },
+  {
+    "name": "Nagaland",
+    "selectors": [
+      "#nagaland",
+      "#NL",
+      "#IN-NL",
+      "[data-name='Nagaland']",
+      "[title='Nagaland']"
+    ],
+    "title": "Naga Wood Carving",
+    "img": "images/nagaland.jpg",
+    "description": "Intricate wood carvings by Naga tribes, often depicting warriors, animals, and mythological figures, used in architecture and rituals.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Bold carvings, tribal motifs, natural wood",
+    "themes": "Warriors, nature, mythology",
+    "additionalInfo": {
+      "majorCenters": [
+        "Kohima",
+        "Dimapur"
+      ],
+      "famousArtists": [
+        "Traditional Naga artisans"
+      ],
+      "techniques": [
+        "Wood carving",
+        "Natural stains",
+        "Chiseling"
+      ],
+      "influence": "Naga tribal culture",
+      "modernRelevance": "Showcased in cultural festivals"
+    }
+  },
+  {
+    "name": "Odisha",
+    "selectors": [
+      "#odisha",
+      "#OR",
+      "#IN-OR",
+      "[data-name='Odisha']",
+      "[title='Odisha']"
+    ],
+    "title": "Pattachitra",
+    "img": "images/odisha.jpg",
+    "description": "Traditional scroll paintings from Odisha, depicting mythological narratives and folk tales with intricate details. These paintings are known for their vibrant colors and storytelling quality.",
+    "period": "12th Century onwards",
+    "characteristics": "Bold outlines, vibrant colors, intricate patterns",
+    "themes": "Hindu mythology, Jagannath culture, folk tales",
+    "additionalInfo": {
+      "majorCenters": [
+        "Puri",
+        "Raghurajpur"
+      ],
+      "famousArtists": [
+        "Jagannath Mahapatra",
+        "Raghunath Mohapatra"
+      ],
+      "techniques": [
+        "Natural dyes",
+        "Canvas made from treated cloth",
+        "Fine brushwork"
+      ],
+      "influence": "Odisha’s temple traditions",
+      "modernRelevance": "GI-tagged, practiced widely"
+    }
+  },
+  {
+    "name": "Punjab",
+    "selectors": [
+      "#punjab",
+      "#PB",
+      "#IN-PB",
+      "[data-name='Punjab']",
+      "[title='Punjab']"
+    ],
+    "title": "Phulkari Embroidery",
+    "img": "images/punjab.jpg",
+    "description": "Traditional embroidery on textiles, known for its vibrant floral patterns and geometric designs, often used in clothing and ceremonial items.",
+    "period": "19th Century onwards",
+    "characteristics": "Floral patterns, bright threads, geometric designs",
+    "themes": "Nature, celebrations, rural life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Patiala",
+        "Amritsar"
+      ],
+      "famousArtists": [
+        "Traditional Punjabi women artisans"
+      ],
+      "techniques": [
+        "Hand embroidery",
+        "Darning stitch",
+        "Silk threads"
+      ],
+      "influence": "Punjabi folk traditions",
+      "modernRelevance": "GI-tagged, popular in fashion"
+    }
+  },
+  {
+    "name": "Rajasthan",
+    "selectors": [
+      "#rajasthan",
+      "#RJ",
+      "#IN-RJ",
+      "[data-name='Rajasthan']",
+      "[title='Rajasthan']"
+    ],
+    "title": "Rajasthani Miniature Painting",
+    "img": "images/rajasthan.jpg",
+    "description": "Exquisite miniature paintings that flourished in the royal courts of Mewar, Marwar, and Kishangarh. These paintings are renowned for their intricate brushwork, luminous color palettes, and detailed narratives from Hindu epics and Mughal court life.",
+    "period": "16th-19th Century",
+    "characteristics": "Fine brushwork, bright colors, gold detailing",
+    "themes": "Royal life, Hindu mythology, nature",
+    "additionalInfo": {
+      "majorCenters": [
+        "Udaipur (Mewar School)",
+        "Jodhpur (Marwar School)",
+        "Kishangarh",
+        "Bundi",
+        "Kota"
+      ],
+      "famousArtists": [
+        "Nihal Chand (Kishangarh)",
+        "Sahibdin (Mewar)",
+        "Nuruddin (Bikaner)"
+      ],
+      "techniques": [
+        "Mineral pigments",
+        "Gold leaf application",
+        "Fine brush work",
+        "Detailed ornamentation"
+      ],
+      "influence": "Mughal miniatures combined with local Rajput traditions",
+      "modernRelevance": "Still practiced, UNESCO recognition pending"
+    }
+  },
+  {
+    "name": "Sikkim",
+    "selectors": [
+      "#sikkim",
+      "#SK",
+      "#IN-SK",
+      "[data-name='Sikkim']",
+      "[title='Sikkim']"
+    ],
+    "title": "Sikkimese Thangka",
+    "img": "images/sikkim.jpg",
+    "description": "Buddhist scroll paintings depicting deities, mandalas, and spiritual narratives, used in monasteries for meditation and rituals.",
+    "period": "15th Century onwards",
+    "characteristics": "Vibrant colors, spiritual symbolism, detailed iconography",
+    "themes": "Buddhism, deities, mandalas",
+    "additionalInfo": {
+      "majorCenters": [
+        "Gangtok",
+        "Rumtek"
+      ],
+      "famousArtists": [
+        "Traditional Buddhist monks"
+      ],
+      "techniques": [
+        "Natural pigments",
+        "Silk or cotton canvas",
+        "Gold detailing"
+      ],
+      "influence": "Tibetan Buddhist art",
+      "modernRelevance": "Preserved in monasteries, promoted in art markets"
+    }
+  },
+  {
+    "name": "Tamil Nadu",
+    "selectors": [
+      "#tamilnadu",
+      "#TN",
+      "#IN-TN",
+      "[data-name='Tamil Nadu']",
+      "[title='Tamil Nadu']"
+    ],
+    "title": "Tanjore Painting",
+    "img": "images/tamilnadu.jpg",
+    "description": "Classical South Indian painting style known for its rich colors, gold foil embellishments, and depictions of Hindu deities. Originating in Thanjavur, these paintings are revered for their opulence.",
+    "period": "16th Century onwards",
+    "characteristics": "Gold leaf, vibrant colors, embossed surfaces",
+    "themes": "Hindu deities, religious narratives",
+    "additionalInfo": {
+      "majorCenters": [
+        "Thanjavur",
+        "Chennai"
+      ],
+      "famousArtists": [
+        "Traditional artisans",
+        "K. Muralidharan"
+      ],
+      "techniques": [
+        "Gold foil application",
+        "Natural pigments",
+        "Gesso work"
+      ],
+      "influence": "Chola dynasty temple art",
+      "modernRelevance": "GI-tagged, popular in religious and decorative art"
+    }
+  },
+  {
+    "name": "Telangana",
+    "selectors": [
+      "#telangana",
+      "#TG",
+      "#IN-TG",
+      "[data-name='Telangana']",
+      "[title='Telangana']"
+    ],
+    "title": "Cheriyal Scroll Painting",
+    "img": "images/telangana.jpg",
+    "description": "Narrative scroll paintings depicting local folklore, mythology, and social themes, traditionally used by storytelling communities.",
+    "period": "15th Century onwards",
+    "characteristics": "Bold colors, narrative style, scroll format",
+    "themes": "Folklore, mythology, rural life",
+    "additionalInfo": {
+      "majorCenters": [
+        "Cheriyal",
+        "Hyderabad"
+      ],
+      "famousArtists": [
+        "Nakka Nagesh",
+        "Vaikuntam"
+      ],
+      "techniques": [
+        "Natural dyes",
+        "Cloth scrolls",
+        "Bold outlines"
+      ],
+      "influence": "Telangana storytelling traditions",
+      "modernRelevance": "GI-tagged, revived through cultural initiatives"
+    }
+  },
+  {
+    "name": "Tripura",
+    "selectors": [
+      "#tripura",
+      "#TR",
+      "#IN-TR",
+      "[data-name='Tripura']",
+      "[title='Tripura']"
+    ],
+    "title": "Tripura Bamboo Art",
+    "img": "images/tripura.jpg",
+    "description": "Intricate bamboo carvings and woven products, reflecting tribal aesthetics and used for both utilitarian and decorative purposes.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Natural materials, intricate patterns, functional art",
+    "themes": "Nature, tribal life, utility",
+    "additionalInfo": {
+      "majorCenters": [
+        "Agartala"
+      ],
+      "famousArtists": [
+        "Traditional tribal artisans"
+      ],
+      "techniques": [
+        "Bamboo carving",
+        "Weaving",
+        "Natural dyes"
+      ],
+      "influence": "Tripura tribal culture",
+      "modernRelevance": "Promoted in handicraft markets"
+    }
+  },
+  {
+    "name": "Uttar Pradesh",
+    "selectors": [
+      "#uttarpradesh",
+      "#UP",
+      "#IN-UP",
+      "[data-name='Uttar Pradesh']",
+      "[title='Uttar Pradesh']"
+    ],
+    "title": "Mughal Miniature Painting",
+    "img": "images/uttarpradesh.jpg",
+    "description": "Intricate paintings developed during the Mughal Empire, blending Persian and Indian artistic traditions. These works often depicted court life, portraits, and nature with fine detailing.",
+    "period": "16th-18th Century",
+    "characteristics": "Fine lines, detailed compositions, Persian influence",
+    "themes": "Court life, nature, portraits",
+    "additionalInfo": {
+      "majorCenters": [
+        "Agra",
+        "Lucknow",
+        "Delhi (historically part of UP)"
+      ],
+      "famousArtists": [
+        "Ustad Mansur",
+        "Bichitr",
+        "Abul Hasan"
+      ],
+      "techniques": [
+        "Squirrel-hair brushes",
+        "Mineral pigments",
+        "Gold and silver leaf"
+      ],
+      "influence": "Persian miniatures and Indian traditions",
+      "modernRelevance": "Preserved in museums, inspires contemporary artists"
+    }
+  },
+  {
+    "name": "Uttarakhand",
+    "selectors": [
+      "#uttarakhand",
+      "#UK",
+      "#IN-UK",
+      "[data-name='Uttarakhand']",
+      "[title='Uttarakhand']"
+    ],
+    "title": "Aipan Art",
+    "img": "images/uttarakhand.jpg",
+    "description": "Traditional folk art of the Kumaon region, featuring geometric patterns painted on floors and walls during festivals and ceremonies.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Geometric patterns, white and red colors, ritualistic designs",
+    "themes": "Rituals, nature, spirituality",
+    "additionalproteins": [
+      "Traditional Kumaoni artisans"
+    ],
+      "techniques": [
+        "Rice paste",
+        "Red ochre",
+        "Floor and wall painting"
+      ],
+      "influence": "Kumaoni cultural traditions",
+      "modernRelevance": "Practiced during festivals, promoted culturally"
+    },
+  {
+    "name": "West Bengal",
+    "selectors": [
+      "#westbengal",
+      "#WB",
+      "#IN-WB",
+      "[data-name='West Bengal']",
+      "[title='West Bengal']"
+    ],
+    "title": "Bengal School of Art",
+    "img": "images/westbengal.jpg",
+    "description": "A modernist art movement that emerged in the early 20th century, emphasizing Indian themes and spiritualism. It rejected Western academic art styles, focusing on traditional Indian techniques and aesthetics.",
+    "period": "Early 20th Century",
+    "characteristics": "Soft colors, fluid lines, spiritual themes",
+    "themes": "Indian mythology, rural life, spirituality",
+    "additionalInfo": {
+      "majorCenters": [
+        "Kolkata",
+        "Santiniketan"
+      ],
+      "famousArtists": [
+        "Abanindranath Tagore",
+        "Nandalal Bose",
+        "Jamini Roy"
+      ],
+      "techniques": [
+        "Wash painting",
+        "Tempera",
+        "Ink and watercolor"
+      ],
+      "influence": "Inspired by Japanese wash techniques and Indian miniature traditions",
+      "modernRelevance": "Influenced modern Indian art and cultural nationalism"
+    }
+  },
+  
+  {
+    "name": "Andaman and Nicobar Islands",
+    "selectors": [
+      "#andamanandnicobarislands",
+      "#AN",
+      "#IN-AN",
+      "[data-name='Andaman and Nicobar Islands']",
+      "[title='Andaman and Nicobar Islands']"
+    ],
+    "title": "Nicobari Shell Craft",
+    "img": "images/andaman.jpg",
+    "description": "Intricate handicrafts made from seashells by the Nicobari tribes, used for decorative items, jewelry, and utilitarian objects, reflecting the island's marine culture.",
+    "period": "Ancient origins, ongoing",
+    "characteristics": "Natural shells, intricate designs, tribal motifs",
+    "themes": "Marine life, tribal identity, nature",
+    "additionalInfo": {
+      "majorCenters": [
+        "Car Nicobar",
+        "Port Blair"
+      ],
+      "famousArtists": [
+        "Traditional Nicobari artisans"
+      ],
+      "techniques": [
+        "Shell carving",
+        "Polishing",
+        "Inlay work"
+      ],
+      "influence": "Nicobari tribal traditions and marine environment",
+      "modernRelevance": "Promoted in handicraft markets and tourism"
+    }
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "selectors": [
+      "#jammuandkashmir",
+      "#JK",
+      "#IN-JK",
+      "[data-name='Jammu and Kashmir']",
+      "[title='Jammu and Kashmir']"
+    ],
+    "title": "Kashmiri Pashmina Embroidery",
+    "img": "images/jammuandkashmir.jpg",
+    "description": "Exquisite embroidery on fine Pashmina wool, featuring intricate floral and paisley patterns, often used in shawls and textiles, showcasing Kashmiri craftsmanship.",
+    "period": "16th Century onwards",
+    "characteristics": "Fine needlework, vibrant threads, floral motifs",
+    "themes": "Nature, floral patterns, cultural heritage",
+    "additionalInfo": {
+      "majorCenters": [
+        "Srinagar",
+        "Anantnag"
+      ],
+      "famousArtists": [
+        "Traditional Kashmiri artisans"
+      ],
+      "techniques": [
+        "Sozni embroidery",
+        "Tilla work",
+        "Hand stitching"
+      ],
+      "influence": "Mughal and Persian textile traditions",
+      "modernRelevance": "GI-tagged, globally renowned for luxury textiles"
+    }
+  }
+
+]
